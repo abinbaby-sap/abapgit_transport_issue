@@ -4,8 +4,6 @@
   <asx:values>
    <DEVC>
     <CTEXT>Please delete it immediately after usage</CTEXT>
-    <COMP_POSID>BC-DWB-AIE</COMP_POSID>
-    <COMPONENT>BYI3000851</COMPONENT>
    </DEVC>
   </asx:values>
  </asx:abap>
